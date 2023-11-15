@@ -1,0 +1,15 @@
+
+—
+java:S1186"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(Çµí‘
+—
+java:S1186"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(Å‡Ùš
+œ
+java:S1186!"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(’ğÁÂúÿÿÿÿ
+E
+java:S1068"(Remove this unused "name" private field.(Ë¥¼8À³°ùº1
+I
+java:S1068"'Remove this unused "age" private field.(Æ†´¦şÿÿÿÿ8Í±ùº1
+L
+java:S1068"*Remove this unused "weight" private field.(Ïã úûÿÿÿÿ8˜ù±ùº1
+E
+java:S1068")Remove this unused "speed" private field.(‡ÚÙ)8÷Ì²ùº1

@@ -1,0 +1,9 @@
+
+W
+java:S1854":Remove this useless assignment to local variable "reader".(Ï ¾ğ8É¬àÌ¼1
+‰
+java:S1130"lRemove the declaration of thrown exception 'java.io.IOException', as it cannot be thrown from method's body.(œû¿Ø8ÿŞñÌ¼1
+H
+java:S1481"+Remove this unused "reader" local variable.(Ï ¾ğ8Ì¬àÌ¼1
+P
+java:S1128".Remove this unused import 'java.util.Scanner'.(ÒÜÅ¸úÿÿÿÿ8„ßñÌ¼1

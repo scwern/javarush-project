@@ -1,0 +1,9 @@
+
+b
+java:S1854
+"@Remove this useless assignment to local variable "stringObject".(ç®çäüÿÿÿÿ8ð—„Í¼1
+Ž
+java:S1130	"lRemove the declaration of thrown exception 'java.lang.Exception', as it cannot be thrown from method's body.(ÙØ¤Þýÿÿÿÿ8ñ—„Í¼1
+S
+java:S1481
+"1Remove this unused "stringObject" local variable.(ç®çäüÿÿÿÿ8ò—„Í¼1

@@ -1,0 +1,11 @@
+
+G	java:S106"+Replace this use of System.out by a logger.(ƒ¶­Ó8û®üÌ¼1
+G	java:S106"+Replace this use of System.out by a logger.(ÿôĞ³8ü®üÌ¼1
+R
+java:S2209"5Change this instance-reference to a static reference.(ÿôĞ³8ü®üÌ¼1
+`
+java:S1214"CMove constants defined in this interfaces to another class or enum.(Öå—¿8ı®üÌ¼1
+r
+java:S3008"PRename this field "INDEX" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(©ÍßÚıÿÿÿÿ8ÿ®üÌ¼1
+X
+java:S2696"6Make the enclosing method "static" or remove this set.(–¶çŒøÿÿÿÿ8€¯üÌ¼1

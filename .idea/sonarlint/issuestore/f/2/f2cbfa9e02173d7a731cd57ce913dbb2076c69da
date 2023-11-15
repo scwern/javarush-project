@@ -1,0 +1,15 @@
+
+R
+java:S1854"7Remove this useless assignment to local variable "dog".(ΰΔ‘―ψÿÿÿÿ
+M
+java:S1854
+"7Remove this useless assignment to local variable "cat".(ρ¤ή³
+>
+java:S1481
+"(Remove this unused "cat" local variable.(ρ¤ή³
+C
+java:S1481"(Remove this unused "dog" local variable.(ΰΔ‘―ψÿÿÿÿ
+W
+java:S1161":Add the "@Override" annotation above this method signature(τηΰί8ζΰΎόΊ1
+W
+java:S1161":Add the "@Override" annotation above this method signature(‹χτ8ζΰΎόΊ1

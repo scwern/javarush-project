@@ -1,0 +1,7 @@
+
+Ž
+java:S1130"lRemove the declaration of thrown exception 'java.lang.Exception', as it cannot be thrown from method's body.(ÙØ¤Þýÿÿÿÿ8«¶˜Í¼1
+G	java:S106"+Replace this use of System.out by a logger.(”Ðˆî8­¶˜Í¼1
+G	java:S106"+Replace this use of System.out by a logger.(„€ÀÃ8­¶˜Í¼1
+J
+java:S1185"(Remove this method to simply inherit it.(ú›Šøøÿÿÿÿ8¯¶˜Í¼1

@@ -1,0 +1,7 @@
+
+
+java:S1130"lRemove the declaration of thrown exception 'java.lang.Exception', as it cannot be thrown from method's body.(ÙØ¤Şıÿÿÿÿ8…ô«É¼1
+G	java:S106
+"+Replace this use of System.out by a logger.(ß¹œ²8‰ô«É¼1
+a
+java:S1124"EReorder the modifiers to comply with the Java Language Specification.(¼şv8‹ô«É¼1

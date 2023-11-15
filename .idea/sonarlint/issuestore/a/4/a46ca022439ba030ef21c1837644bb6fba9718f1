@@ -1,0 +1,20 @@
+
+{
+java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(³ý§Ìþÿÿÿÿ8¤§Õý¼1
+c
+java:S2184"ACast one of the operands of this division operation to a "float".(½–Éúúÿÿÿÿ8¥§Õý¼1
+=
+java:S2129" Remove this "Double" constructor(þüŠô8Ð§Õý¼1
+e
+java:S5738"HRemove this call to a deprecated method, it has been marked for removal.(þüŠô8Ð§Õý¼1
+d
+java:S5738"HRemove this call to a deprecated method, it has been marked for removal.(¨ï¦	8Ñ§Õý¼1
+A
+java:S2129"Remove this "Float" constructor(½–Éúúÿÿÿÿ8Ò§Õý¼1
+j
+java:S5738"HRemove this call to a deprecated method, it has been marked for removal.(½–Éúúÿÿÿÿ8Ó§Õý¼1
+e
+java:S5738"HRemove this call to a deprecated method, it has been marked for removal.(Ôã‘Ì8Ô§Õý¼1
+G	java:S106"+Replace this use of System.out by a logger.(ŸÏÍè8Õ§Õý¼1
+G	java:S106"+Replace this use of System.out by a logger.(¬«™Â8×§Õý¼1
+L	java:S106""+Replace this use of System.out by a logger.(©áÊìüÿÿÿÿ8Ø§Õý¼1

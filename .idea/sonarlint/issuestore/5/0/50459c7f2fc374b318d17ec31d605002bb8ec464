@@ -1,0 +1,11 @@
+
+H
+java:S1199"-Extract this nested code block into a method.(ÒÌâ–øÿÿÿÿ
+P
+java:S1854":Remove this useless assignment to local variable "reader".(Ï ¾ð
+‡
+java:S1130"lRemove the declaration of thrown exception 'java.lang.Exception', as it cannot be thrown from method's body.(ÙØ¤Þýÿÿÿÿ
+A
+java:S1481"+Remove this unused "reader" local variable.(Ï ¾ð
+C
+java:S1481"(Remove this unused "key" local variable.(¤Êéµÿÿÿÿÿ

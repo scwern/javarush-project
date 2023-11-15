@@ -1,0 +1,14 @@
+
+‡
+java:S1130"lRemove the declaration of thrown exception 'java.lang.Exception', as it cannot be thrown from method's body.(ÙØ¤Şıÿÿÿÿ
+E	java:S106	"+Replace this use of System.out by a logger.(àŸ‡ëøÿÿÿÿ
+@	java:S106
+"+Replace this use of System.out by a logger.(ÂŠ£
+^
+java:S1214"CMove constants defined in this interfaces to another class or enum.(ˆÜŸøÿÿÿÿ
+X	java:S125"<This block of commented-out lines of code should be removed.(Ø¥Ù8§ÈÌ¼1
+X	java:S125"<This block of commented-out lines of code should be removed.(¤½¸8§ÈÌ¼1
+X	java:S125"<This block of commented-out lines of code should be removed.(ÑóÍá8§ÈÌ¼1
+]	java:S125"<This block of commented-out lines of code should be removed.(åÚªùÿÿÿÿ8§ÈÌ¼1
+]	java:S125"<This block of commented-out lines of code should be removed.(å´ •ûÿÿÿÿ8§ÈÌ¼1
+X	java:S125"<This block of commented-out lines of code should be removed.(•Î°Ú8§ÈÌ¼1
