@@ -1,0 +1,16 @@
+
+p	java:S116
+"TRename this field "DoubleVar" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(É²é8œ¡¤½1
+u	java:S116"TRename this field "ObjectVar" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¶«À¢ûÿÿÿÿ8¡¤½1
+s	java:S116"WRename this field "ExceptionVar" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¿ü’¿8¡¤½1
+u	java:S116"TRename this field "StringVar" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¾°ŒĞÿÿÿÿÿ8¡¤½1
+s
+java:S1845
+"VRename field "DoubleVar" to prevent any misunderstanding/clash with field "doubleVar".(É²é8¡¤½1
+L	java:S106"+Replace this use of System.out by a logger.(âÎê¶üÿÿÿÿ8¡¡¤½1
+G	java:S106"+Replace this use of System.out by a logger.(¿Ë¥Ñ8¡¡¤½1
+L	java:S106"+Replace this use of System.out by a logger.(µ•Õûÿÿÿÿ8¢¡¤½1
+L	java:S106"+Replace this use of System.out by a logger.(²¶İ©şÿÿÿÿ8¢¡¤½1
+L	java:S106"+Replace this use of System.out by a logger.(šñÄªûÿÿÿÿ8¢¡¤½1
+L	java:S106"+Replace this use of System.out by a logger.(”ºÏ°ıÿÿÿÿ8¢¡¤½1
+G	java:S106"+Replace this use of System.out by a logger.(»§¾Ì8£¡¤½1

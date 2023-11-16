@@ -1,0 +1,14 @@
+
+c
+java:S1104"MMake A a static final constant or non-public and provide accessors if needed.(Д╛са
+h
+java:S1104"MMake B a static final constant or non-public and provide accessors if needed.(с╓└з№    
+=
+java:S1444"'Make this "public static A" field final(Д╛са
+B
+java:S1444"'Make this "public static B" field final(с╓└з№    
+b
+java:S3008"LRename this field "A" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Д╛са
+g
+java:S3008"LRename this field "B" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(с╓└з№    
+@	java:S106"+Replace this use of System.out by a logger.(ащ ╘

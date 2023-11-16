@@ -1,0 +1,19 @@
+
+c
+java:S1104"MMake A a static final constant or non-public and provide accessors if needed.(£ù≈√
+b
+java:S1104"MMake B a static final constant or non-public and provide accessors if needed.(Ñ…Ì
+
+=
+java:S1444"'Make this "public static A" field final(£ù≈√
+<
+java:S1444"'Make this "public static B" field final(Ñ…Ì
+
+b
+java:S3008"LRename this field "A" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(£ù≈√
+a
+java:S3008"LRename this field "B" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ñ…Ì
+
+a
+java:S1845 "KRename method "min" to prevent any misunderstanding/clash with field "MIN".(‹ÔÊã
+@	java:S106"+Replace this use of System.out by a logger.(ﬁŒ÷Ê

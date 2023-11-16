@@ -1,0 +1,10 @@
+
+v
+java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(†—ÖŸ8åΩÌ£Ω1
+o
+java:S1104"RMake labels a static final constant or non-public and provide accessors if needed.(†—ÖŸ8çΩÌ£Ω1
+I
+java:S1444",Make this "public static labels" field final(†—ÖŸ8çΩÌ£Ω1
+:
+java:S2386"Make this member "protected".(†—ÖŸ8íΩÌ£Ω1
+G	java:S106"+Replace this use of System.out by a logger.(œ∑‹Æ8öΩÌ£Ω1

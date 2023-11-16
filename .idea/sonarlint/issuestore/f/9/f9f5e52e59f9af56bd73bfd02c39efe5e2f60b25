@@ -1,0 +1,20 @@
+
+C
+java:S1905"&Remove this unnecessary cast to "int".(Ğ¸ï€8ñ‰ã½1
+D
+java:S1172"(Remove this unused method parameter "i".(Ş“8ö‰ã½1
+F	java:S106"+Replace this use of System.out by a logger.(‘¶Ái8÷‰ã½1
+J
+java:S1172"(Remove this unused method parameter "i".(Š†ó‡üÿÿÿÿ8ú‰ã½1
+]	java:S125"<This block of commented-out lines of code should be removed.(¬Áéøÿÿÿÿ8¦¾ç½1
+L	java:S106"+Replace this use of System.out by a logger.(©¦¯²úÿÿÿÿ8û‰ã½1
+E
+java:S1172"(Remove this unused method parameter "i".(Ş’óÂ8ü‰ã½1
+L	java:S106"+Replace this use of System.out by a logger.(©¦¯²úÿÿÿÿ8ı‰ã½1
+E
+java:S1172 "(Remove this unused method parameter "i".(‹³İ©8ş‰ã½1
+F	java:S106!"+Replace this use of System.out by a logger.( †®-8ÿ‰ã½1
+E
+java:S1172$"(Remove this unused method parameter "i".(Î‰²†8ë˜å½1
+F	java:S106%"+Replace this use of System.out by a logger.( †®-8ì˜å½1
+X	java:S125("<This block of commented-out lines of code should be removed.(² Ÿ¨8şËé½1

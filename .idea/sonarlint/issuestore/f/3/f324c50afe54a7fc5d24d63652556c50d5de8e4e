@@ -1,0 +1,10 @@
+
+T
+java:S1854
+">Remove this useless assignment to local variable "nakedSimka".(ùäÕ©
+E
+java:S1481
+"/Remove this unused "nakedSimka" local variable.(ùäÕ©
+d
+java:S2094"BRemove this empty class, write its code or make it an "interface".(¶şşûÿÿÿÿ8è§Ş¢½1
+?	java:S106"+Replace this use of System.out by a logger.(ƒéõ
