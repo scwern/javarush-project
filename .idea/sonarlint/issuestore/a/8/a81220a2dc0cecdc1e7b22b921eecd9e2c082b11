@@ -1,16 +1,6 @@
 
 u
 java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(ÂöúX8ÙÄ¹½1
-€
-java:S1488!"^Immediately return this expression instead of assigning it to the temporary variable "output".(âáÔƒüÿÿÿÿ8ÚÄ¹½1
 L	java:S106"+Replace this use of System.out by a logger.(„Ò‹üùÿÿÿÿ8èÄ¹½1
 [
-java:S5993"9Change the visibility of this constructor to "protected".(ú·Ö‘ûÿÿÿÿ8èÄ¹½1
-`
-java:S1854"CRemove this useless assignment to local variable "markTwainOutput".(Ó±®Š8êÄ¹½1
-j
-java:S1854"HRemove this useless assignment to local variable "agathaChristieOutput".(¤ÕìÖøÿÿÿÿ8êÄ¹½1
-[
-java:S1481"9Remove this unused "agathaChristieOutput" local variable.(¤ÕìÖøÿÿÿÿ8ëÄ¹½1
-Q
-java:S1481"4Remove this unused "markTwainOutput" local variable.(Ó±®Š8ìÄ¹½1
+java:S59937"9Change the visibility of this constructor to "protected".(ú·Ö‘ûÿÿÿÿ8¥œÒÊ½1
