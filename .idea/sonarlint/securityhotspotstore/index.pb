@@ -356,3 +356,13 @@ Q.idea/sonarlint/securityhotspotstore/6/e/6ef9a0f295fee3c4950f60339084038bdea9d0
 Q.idea/sonarlint/securityhotspotstore/9/4/94526b8cc6fc4e91e8d7467a15f4b35552cc245d,9\7\979107e32522896ab79704de1c4a54f851252fad
 Å
 Q.idea/sonarlint/securityhotspotstore/a/8/a81220a2dc0cecdc1e7b22b921eecd9e2c082b11,e\9\e94a62489c3f1d2ea5192af422d92b90f17e5dbc
+c
+3src/com/javarush/task/task16/task1601/Solution.java,5\1\517738183dad32dc58d810ebbd886d4781e7555d
+c
+3src/com/javarush/task/task16/task1602/Solution.java,5\4\54cf8f673c3f3579f024d6ba18aef2f912da7842
+c
+3src/com/javarush/task/task16/task1604/Solution.java,0\c\0c96b49609cc7c821aaafca73ed7f1aa55ed5df5
+c
+3src/com/javarush/task/task16/task1603/Solution.java,5\9\597e1ff81cd34cc7bb66f6f86891bfe87ed63cdd
+c
+3src/com/javarush/task/task16/task1605/Solution.java,a\d\ad1bbcf6fc2732de20e90112618858daf5269586
