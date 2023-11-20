@@ -412,3 +412,11 @@ c
 3src/com/javarush/task/task16/task1616/Solution.java,7\2\72b455cf7969ad53b690a406994ca445fd7ecc7d
 c
 3src/com/javarush/task/task16/task1618/Solution.java,c\e\cea3943a3ffb74445a6e4828ba2819759f4ebf0b
+c
+3src/com/javarush/task/task16/task1619/Solution.java,1\c\1cee557fb818b36dec003440c383fe9c8ce4da5c
+c
+3src/com/javarush/task/task16/task1621/Solution.java,f\a\fa3308acc1c7bbe5f1c978e9d46c3f0b9880c66e
+c
+3src/com/javarush/task/task16/task1622/Solution.java,b\1\b1e77b7a9d308b9c90285f758d9d63cee699b715
+c
+3src/com/javarush/task/task16/task1624/Solution.java,c\7\c71fd18c45b981b2bba67f5b30d5cad29a0433eb
