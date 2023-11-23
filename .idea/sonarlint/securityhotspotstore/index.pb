@@ -436,3 +436,7 @@ c
 3src/com/javarush/task/task17/task1707/Solution.java,f\8\f85aef2179ce68d697e6343438563ef49bf81dd0
 c
 3src/com/javarush/task/task17/task1705/Solution.java,c\6\c6660daebe8b17490e754dcacd51ae34fb2b993f
+c
+3src/com/javarush/task/task17/task1708/Solution.java,5\a\5a3dac917239c480264dafb044a93a8b32a498ef
+c
+3src/com/javarush/task/task17/task1709/Solution.java,8\e\8e9ad3c4d3aa30ede4495c7fe5ee303f7aae0783
